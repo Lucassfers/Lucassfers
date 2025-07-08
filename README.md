@@ -4,7 +4,7 @@
 💡 I’m passionate about learning new technologies and improving my skills every day.  
 
 ### 🛠️ My main stack:
-- **Languages:** JavaScript, Python  
+- **Languages:** TypeScript, Python  
 - **Frameworks:** Express  
 - **Libraries:** React  
 - **Databases:** MySQL, MongoDB  
