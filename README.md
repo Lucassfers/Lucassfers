@@ -1,16 +1,14 @@
-
-
 <!-- Profile README – Lucas Fers -->
 <div align="center">
-
-## 👋 Hello, I'm Lucas Fernandes da Silva
+  
+# 👋 Hello, I'm Lucas Fernandes da Silva
 
 🎓 I'm currently studying **Systems Analysis and Development** at UniSenac Pelotas.  
-💡 I’m FullStack developer.  
+💡 I'm FullStack developer.
 
 ---
 
-## 📬 Where Find Me
+## 📫 Where Find Me
 <p>
   <a href="https://wa.me/5553991424524" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" />
@@ -23,11 +21,9 @@
   </a>
 </p>
 
-</div>
-
 ---
 
-## 🧰 Stacks
+## 💼 Stacks
 
 ### 🎨 Front End
 <p>
@@ -73,4 +69,3 @@
 ✨ Sempre aprendendo, sempre codando.  
 
 </div>
-
