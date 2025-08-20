@@ -6,7 +6,7 @@ I'm interested in creating scalable, organized, and maintainable web solutions.
 I enjoy solving problems with code, studying best practices, and sharing what I learn.
 
 
-## 📬 Where find me
+📬 Where find me
 ---
 <a href="https://wa.me/5553991424524" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" style="vertical-align: middle;" />
