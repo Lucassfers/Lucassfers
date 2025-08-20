@@ -5,7 +5,6 @@
 
 Desenvolvedor focado em **Web**. Curto resolver problemas com código, estudar boas práticas e compartilhar o que aprendo.
 
----
 
 ## 📬 Onde me encontrar
 <p>
@@ -22,7 +21,6 @@ Desenvolvedor focado em **Web**. Curto resolver problemas com código, estudar b
 
 </div>
 
----
 
 ## 🧰 Stacks
 
@@ -63,7 +61,6 @@ Desenvolvedor focado em **Web**. Curto resolver problemas com código, estudar b
   <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" />
 </p>
 
----
 
 <div align="center">
   
