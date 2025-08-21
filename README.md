@@ -11,8 +11,8 @@ I enjoy solving problems with code, studying best practices, and sharing what I 
 <a href="https://wa.me/5553991424524" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" style="vertical-align: middle;" />
 </a>
-<a href="[mailto:lucasfernandesss23@gmail.com](https://mail.google.com/mail/?view=cm&to=lucasfernandesss23@gmail.com)" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" style="vertical-align: middle;" />
+<a href="https://mail.google.com/mail/?view=cm&to=lucasfernandesss23@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/lucasfers" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" style="vertical-align: middle;" />
