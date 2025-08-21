@@ -1,4 +1,4 @@
-👋Hello World! I'm Lucas Fernandes da Silva
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4f37e7ff-44d2-4f80-81da-f594a34f0deb" />👋Hello World! I'm Lucas Fernandes da Silva
 ---
 I'm a FullStack Developer, focusing on React on the front end and Node.js/Express on the back end.
 I'm currently studying Systems Analysis and Development at UniSenac Pelotas.
@@ -56,6 +56,14 @@ I enjoy solving problems with code, studying best practices, and sharing what I 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+</p>
+
+📚 Learning
+---
+<p>
+<img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge" />
 </p>
 
 
