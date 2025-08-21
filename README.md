@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4f37e7ff-44d2-4f80-81da-f594a34f0deb" />👋Hello World! I'm Lucas Fernandes da Silva
+👋Hello World! I'm Lucas Fernandes da Silva
 ---
 I'm a FullStack Developer, focusing on React on the front end and Node.js/Express on the back end.
 I'm currently studying Systems Analysis and Development at UniSenac Pelotas.
