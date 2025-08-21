@@ -1,4 +1,4 @@
-👋Hello World! I'm Lucas Fers 
+👋Hello World! I'm Lucas Fernandes da Silva
 ---
 I'm a FullStack Developer, focusing on React on the front end and Node.js/Express on the back end.
 I'm currently studying Systems Analysis and Development at UniSenac Pelotas.
@@ -71,6 +71,5 @@ I enjoy solving problems with code, studying best practices, and sharing what I 
 <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=for-the-badge" />
 </p>
-
 
 ✨Always learning, always coding.
