@@ -22,7 +22,7 @@ I enjoy solving problems with code, studying best practices, and sharing what I 
 🚀Featured Projects
 ---
 - **[MyTask]**  
-  Sistema de **gerenciamento de tarefas estilo Trello**, com drag-and-drop, múltiplas colunas e autenticação.  
+  **Trello-style task management system**, with drag-and-drop, multiple columns and authentication. 
   🔹 **Front-end:** React + Tailwind  
   🔹 **Back-end:** Node.js + Express + Prisma + PostgreSQL  
 
