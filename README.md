@@ -198,11 +198,6 @@ I'm also learning game development with **C#**, **Unity** and **Blender**, and i
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Lucassfers&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="Lucas GitHub stats"
-  />
-  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
     alt="Most used languages"
