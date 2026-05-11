@@ -202,8 +202,6 @@ I'm also learning game development with **C#**, **Unity** and **Blender**, and i
     alt="Lucas GitHub Profile Summary"
   />
 
-  <br><br>
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucassfers&theme=tokyonight"
     width="340"
