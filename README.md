@@ -205,18 +205,10 @@ I'm also learning game development with **C#**, **Unity** and **Blender**, and i
   <br><br>
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucassfers&theme=tokyonight"
-    width="340"
-    alt="Most Used Languages by Repository"
-  />
-
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucassfers&theme=tokyonight"
     width="340"
     alt="Most Used Languages by Commit"
   />
-
-  <br><br>
 
   <img
     src="https://streak-stats.demolab.com?user=Lucassfers&theme=tokyonight&hide_border=true"
