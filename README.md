@@ -192,40 +192,39 @@ I'm also learning game development with **C#**, **Unity** and **Blender**, and i
 
 ---
 
- ---
-
----
-
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&theme=tokyonight&hide_border=true&layout=donut&langs_count=8"
-  width="420"
-  alt="Most Used Languages"
-/>
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucassfers&theme=tokyonight"
+    width="700"
+    alt="Lucas GitHub Profile Summary"
+  />
 
   <br><br>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=420"
-    width="420"
-    alt="Most Used Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucassfers&theme=tokyonight"
+    width="340"
+    alt="Most Used Languages by Repository"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucassfers&theme=tokyonight"
+    width="340"
+    alt="Most Used Languages by Commit"
   />
 
   <br><br>
 
   <img
     src="https://streak-stats.demolab.com?user=Lucassfers&theme=tokyonight&hide_border=true"
-    width="420"
+    width="500"
     alt="GitHub Streak"
   />
 
 </div>
-
-</div>
-
 
 ---
 
