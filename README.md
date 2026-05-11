@@ -194,23 +194,36 @@ I'm also learning game development with **C#**, **Unity** and **Blender**, and i
 
  ---
 
+---
+
 ##  GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Most used languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lucassfers&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="420"
+    alt="Lucas GitHub Stats"
+  />
+
+  <br />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="420"
+    alt="Most Used Languages"
+  />
+
+  <br />
+
   <img
     src="https://streak-stats.demolab.com?user=Lucassfers&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="GitHub streak stats"
+    width="420"
+    alt="GitHub Streak"
   />
-</p>
+
+</div>
+
 
 ---
 
