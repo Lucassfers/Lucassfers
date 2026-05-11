@@ -201,26 +201,28 @@ I'm also learning game development with **C#**, **Unity** and **Blender**, and i
 <div align="center">
 
   <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&theme=tokyonight&hide_border=true&layout=donut"
-  width="420"
-  alt="Most Used Languages"
-/>
+    src="https://github-readme-stats.vercel.app/api?username=Lucassfers&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="420"
+    alt="Lucas GitHub Stats"
+  />
 
-  <br />
+  <br><br>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassfers&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=420"
     width="420"
     alt="Most Used Languages"
   />
 
-  <br />
+  <br><br>
 
   <img
     src="https://streak-stats.demolab.com?user=Lucassfers&theme=tokyonight&hide_border=true"
     width="420"
     alt="GitHub Streak"
   />
+
+</div>
 
 </div>
 
